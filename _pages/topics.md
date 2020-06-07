@@ -13,7 +13,7 @@ toc: true
 
 > Topics
 
-- [Housing](housing.md)
-- [Furniture](furniture.md)
-- [Banking](banks.md)
-- [BaseCamp](Basecamp.md)
+- [Housing](/housing/)
+- [Furniture](/topics/furniture/)
+- [Banking](/topics/banking/)
+- [BaseCamp](/housing/basecamp/)

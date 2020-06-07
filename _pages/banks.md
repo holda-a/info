@@ -71,7 +71,7 @@ Don't need yellow card for initial setup
 - Proof of identity (e.g. passport)
 - Rental contract
 - Signed letter of employment
-- CPR-number document **Link this to the CPR number article**
+- CPR-number document <!-- ToDo: Link this to the CPR number article -->
 - Selfie with the queen (*optional*)
 
 > You don't actually need a selfie with the queen.
